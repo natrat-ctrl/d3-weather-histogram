@@ -6,9 +6,11 @@ An interactive histogram built with **D3.js** that visualizes weather data distr
 
 ## 📸 Preview
 
-![Histogram default view](images/histogram-default.png)
-![Tooltip in action](images/histogram-tooltip.png)
+## 📸 Preview
 
+![Histogram UV -index](images/Screenshot_2026-02-23_114919.png)
+![Histogram Humidity](images/Screenshot_2026-02-23_114927.png)
+![Tooltip](images/histogram-tooltip-png.png)
 ---
 
 ## Features
